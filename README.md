@@ -72,8 +72,6 @@ My goal is to strengthen my Python skills, build practical applications, and gro
 
 ## 🤝 Connect with Me
 
-## 🤝 Connect with Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/aditya-vanara-53a697343/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Profile" width="40" height="40" />
